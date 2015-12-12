@@ -1,4 +1,6 @@
-RPG map generator:
+### RPG map generator ###
+
+![RPG Map Screenshot](./rpg-map-screenshot.png)
 
 	(:require [infinitelives.procedural.maps :as maps])
 	
