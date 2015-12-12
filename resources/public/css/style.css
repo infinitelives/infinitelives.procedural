@@ -1,0 +1,42 @@
+/* some style */
+
+#app {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+td {
+  width: 2px;
+  height: 2px;
+}
+
+tr {
+}
+
+table {
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.grass {
+  background-color: #1c1;
+}
+
+.trees {
+  background-color: #080;
+}
+
+.sand {
+  background-color: yellow;
+}
+
+.road {
+  background-color: gray;
+}
+
+.water {
+  background-color: blue;
+}
